@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+microservice1.iml
+microservice1
+/.idea
